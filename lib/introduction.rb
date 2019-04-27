@@ -1,3 +1,3 @@
 #defining introduction
-def introduction
+def introduction(name)
 end
